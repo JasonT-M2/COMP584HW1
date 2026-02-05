@@ -1,1 +1,1 @@
-# COMP584HW1
+https://csun-orm.github.io/hw0.github.io/
